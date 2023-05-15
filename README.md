@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GodinhoGS?tab=repositories)
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqSvslkfhgbkgQzLGFXnJbRgvlNbkFQfnbfxVLLMncNCfdwqSfTHJtvLwbkfsCxDjvQZlV)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GodinhoGS&show_icons=true&theme=tokyonight)<img style="height: 196px;" alt="ft" src="https://blog.dankicode.com/wp-content/uploads/2019/08/logica-de-programac%CC%A7a%CC%83o-para-iniciantes.png">
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GodinhoGS&show_icons=true&theme=tokyonight)<img style="width: 21rem; height: 196px;" alt="ft" src="https://blog.dankicode.com/wp-content/uploads/2019/08/logica-de-programac%CC%A7a%CC%83o-para-iniciantes.png">
 
 
 ## Tecnologias do meu dia a dia
