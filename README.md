@@ -1,7 +1,9 @@
 
 ### Olá! Eu sou o Gustavo Godinho 🖐️
 
-""
+“A necessidade é a mãe da inovação." </br>
+
+Platão
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavogodinhosoares/)
 [![Linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GodinhoGS?tab=repositories)
@@ -19,4 +21,7 @@
     <img  align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img  align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img  align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">    
-</div>
+</div><br>
+
+Em busca de um estágio na área de programação para o meu desenvolvimento
+pessoal e profissional.
